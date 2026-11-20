@@ -110,7 +110,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
-![Uploading library.png…]()
+<img width="1250" height="950" alt="library" src="https://github.com/user-attachments/assets/47b0571b-4585-44bc-80d9-06d419d62521" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
